@@ -1,5 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 #include <avr/power.h>
+#This code was obtained from a workshop at Vancouver Hack Space, A.K.A. V.H.S.
 
 const int KNOB_ONE_PIN   = A0 ; 
 const int KNOB_TWO_PIN   = A1 ; 
